@@ -1,1 +1,0 @@
-# Parcial2_Componentes
